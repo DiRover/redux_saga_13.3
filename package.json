@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DiRover.github.io",
+  "homepage": "https://DiRover.github.io/redux_saga_13.3",
   "dependencies": {
     "@fractalsoftware/random-avatar-generator": "^1.0.6",
     "@popperjs/core": "^2.10.1",
